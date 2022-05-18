@@ -1,0 +1,66 @@
+Seja Protagonista Nesse Bootcamp
+================================
+	
+Percurso
+
+1. Serão 4 Partes
+	a. Bootcamp DIO: Nossa Metodologia de Ensino
+		i. Me matriculei e agora?
+		ii. Bootcamp DIO
+			1) Principais tipos de conteúdos educacionais:
+				a) Cursos
+					i) Conceitos essenciais
+					ii) Fundamentação teórica
+				b) Mentorias
+					i) Imersão Tecnológica
+					ii) Cultura Interativa
+					iii) São Ao Vivo
+				c) Desafios de Código
+					i) Lógica 
+					ii) Pensamento Computacional
+					iii) Refinamento de Código
+				d) Desafios de Projeto
+					i) Prática
+					ii) Criação de Portfólio
+					iii) Projetos Reais
+		iii. Como um bootcamp é estruturado, seus elementos, etc
+	b. Desafios de Código: Entendendo na Prática
+		i. Os questionários também fazem parte da avaliação
+		ii. Caso necessário, assista novamente os conteúdos
+		iii. Como resolver um Desafio de Código?
+		iv. O que é uma entrada e uma saída
+		v. Tem o objetivo de desenvolver o pensamento computacional e raciocínio lógico durante sua jornada. Essas habilidades são essenciais para o aumento da sua capacidade de resolver problemas (uma boa definição para aumento de senioridade)
+		vi. Exemplo em Java e Javascipt
+		vii. Você pode alternar ou seguir a ordem dos desafios
+		viii. Você pode executar o código, corrigir se necessário e verificar se os testes passaram
+		ix. Caso você envie um desafio com erro, você perderá um coração
+			1) Caso perca todos os corações, você precisa ficar um tempo pra tentar de novo (suspensão temporária)
+		x. Você pode acionar a parte de suporte, rooms ou fórums
+		xi. Dentro dos Desafios, terão TODOs, para serem realizados
+	c. Desafios de Projeto: Entendendo na Prática
+		i. Projetos para serem adicionados ao Portfólio
+		ii. Desafio Técnico
+		iii. Como resolver um Desafio de Projeto
+		iv. Tem como objetivo promover a criação de um portfólio de projetos consistente no GitHub. Essa é uma prática importante na área de TI, a qual pode destacá-lo (a) em uma entrevista técnica.
+		v. Na parte de Labs, você não precisa estar inscrito em um bootcamp
+		vi. Após as aulas, terá uma aba com as instruções sobre o Desafio de Projeto
+		vii. O código fonte das aulas, estarão disponíveis no GitHub
+			1) Você pode fazer o fork do projeto-base, realizar as suas alterações e submeter o projeto na Entrega do Desafio
+			2) Detalhe o que você fez de alterações
+			3) As empresas olham os projetos e os desafios entregues
+	d. Dicas Finais e Conclusão
+		i. #ContratoDeCompromisso
+		ii. A conclusão de um Bootcamp coloca o seu perfil em destaque para as empresas parceiras da DIO. Nesse sentido nossas dicas de ouro são:
+			1) Não desista, assuma esse compromisso consigo mesmo;
+			2) Participe ativamente do Fórum, Room e Mentorias;
+			3) Mantenha seu currículo/perfil atualizado na DIO;
+		iii. Links Úteis
+			1) Central de Ajuda
+				a) Dúvidas frequentes e/ou bugs
+			2) Artigos/Fórums
+				a) Dicas, curiosidades e temas em alta
+			3) Rooms
+				a) Dúvidas técnicas relacionadas a um Bootcamp
+			4) Live Codings
+				a) Imersões práticas avançadas
+
