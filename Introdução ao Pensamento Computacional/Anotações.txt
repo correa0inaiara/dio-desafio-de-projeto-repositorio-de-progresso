@@ -1,0 +1,449 @@
+Introdução ao Pensamento Computacional
+======================================
+
+Pimeiros passos para começar a programar
+----------------------------------------
+1. Objetivo Geral
+	a. Você será capaz de entender o que significa pensar computacionalmente.
+	b. Pensamento aplicável à qualquer área do conhecimento;
+	c. Dessa forma, será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+2. Percurso
+	a. Pensamento Computacional
+	b. Introdução à lógica da programação
+	c. Fundamentos de Algorítmos
+	d. Linguagens de Programação
+	e. Primeiro Contato com a Programação
+
+	Aula 1: Introdução
+	-------------------
+	
+	1. Introdução ao pensamento computacional
+		a. "Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algorítmos que podem ser implementados no computador" (Aho, 2011; Lee, 2016)
+		b. Sistemático e eficiente
+			i. Formulação e resolução de problemas
+		c. Sejam capazes de resolver
+			i. Humanos e Máquinas
+		d. Habilidade generalista
+		e. Baseado em 4 pilares
+			i. Dividir um problema complexo em subproblemas
+			ii. Decomposição
+				1) Segmentação do problema
+				2) Dividir em vários subproblemas
+			iii. Reconhecimento de Padrões
+				1) Identificar padrões ou tendências
+					a) Similaridades e diferenças entre os problemas
+			iv. Abstração
+				1) Extrapolar o conceito do problema para uma forma generalista
+					a) Do mundo concreto para o mundo das ideias
+				2) Exemplo:
+					a) Classes são abstrações
+					b) Simulação de fenômenos atráves de fórmulas matemáticas
+			v. Design de Algorítmos
+				1) Automatizar
+					a) Definir passo a passo a solução do problema
+				2) Input -> Operador (repete) -> Output
+				3) Processo Contínuo
+					a) Definir uma solução
+					b) Testar a solução
+					c) Aperfeiçoamento da solução encontrada
+				4) Habilidades Humanas
+					a) Resolução de problemas - Abstração 1
+					b) Expressão de solução - Automatização 2
+				5) Recursos Computacionais
+					a) Execução da solução e avaliação (refinamento) - Análise 3
+					
+	2. Habilidades complementares
+		a. Raciocínio Lógico
+			i. É uma forma de pensamento estruturado ou raciocínio que permite encontrar a conclusão ou determinar a resolução de um problema
+				1) Habilidade de Treinamento
+			ii. Classificação
+				1) Indução
+					a) Leis e teorias à partir de um fenômeno observado
+					b) Ciências experimentais
+				2) Dedução
+					a) À partir das Leis e teorias é feita a dedução de previsões e explicações
+					b) Ciências exatas
+				3) Abdução
+					a) À partir de uma conclusão você tira a premissa
+					b) Ex.: A grama está molhada, logo deve ter chovido
+						i) Pode não ser verdadeira
+					c) Utilizado no processo investigado e em diagnósticos
+			iv. Exemplo
+				1) Pai -> Sérgio
+				2) Filha -> Fernanda
+				3) Mãe -> Teresa
+				4) Filho -> Roberto
+		b. Aperfeiçoamento
+			i. Melhoramento
+			ii. Aprimoramento
+			iii. Refinamento
+			iv. Ato de Aperfeiçoar
+			v. A partir de uma solução determinar pontos de melhora e refinamento
+			
+	3. Pilares
+		a. Decomposição
+			i. É preciso compreender como executar cada etapa de um pensamento computacional.
+			ii. Dessa forma, as aulas subsequêntes são dedicadas à compreensão individual de cada pilar desse processo de pensamento
+			iii. Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional
+			iv. "Dado um problema complexo, devemos quebrá-lo em problemas meenores. Portanto, problemas mais fáceis e gerenciáveis." 
+			v. Estratégia
+			vi. Ordem de execução de tarefas menores
+				1) Sequencial
+					a) Dependência entre tarefas
+					b) Executadas em "fila"
+				2) Paralelo
+					a) Tarefas podem ser executadas concomitantemente
+					b) + Eficiência
+					c) - Tempo
+			vii. Variáveis
+			viii. Pequenos problemas
+			ix. Segmentação
+			x. Não basta aplicar
+			xi. Desenvolver a decomposição "by yourself"
+			xii. Maneiras distintas de decompor o mesmo problema
+			xiii. Como decompor?
+				1) Identificar ou coletar dados
+				2) Agregar os dados
+				3) Funcionalidade
+				4) Decomposição 
+		b. Padrões
+			i. Área bem específica e aplicada à outras áreas
+			ii. Reconhecimento de Padrões
+				1) Modelo base
+				2) Estrutura invariantes
+				3) Repetição
+			iii. Similaridades e diferenças
+				1) Processo utilizado por diferentes plataformas
+			iv. Porque determinar padrões
+				1) Generalizar, com objetivo de obter resolução para problemas diferentes
+			v. 
+				1) Comparação: O ser humano é subjetivo e o computador é direto
+			vi. Aplicações
+				1) Classificação de dados
+				2) Reconhecimento de imagem
+				3) Reconhecimento de fala
+				4) Análise de cenas
+				5) Classificação de documentos
+				6) Exemplo
+					a) Machine Learning
+					b) Redes Neurais
+					c) Inteligência Artificial
+					d) Ciência de Dados
+		c. Abstração
+			i. Generalização/Abstração
+				1) Abstrair
+					a) Observar, um ou mais elementos, avaliando características e propriedades em separado
+					b) Determinar características
+				2) Abstração
+					a) Processo intelectual de isolamento de um objeto da realidade
+					b) Extrapolar um objeto do mundo concreto ao mundo das ideias (lado da realidade)
+				3) Generalizar
+					a) Tornar-se geral, mais amplo, extensão
+					b) Pegar os principais objetos, extrapolá-los de maneira que você torne-os geral
+			ii. Como classificar os dados?
+				1) Características
+				2) Pontos essenciais
+				3) Generalizar x detalhar
+			iii. Representação de dados
+				1) Árvores, listas e grafos
+				2) Máquina de estados finitos
+				3) Linguagem de programação
+				4) Comunicação síncrona e assíncrona
+				5) Redes
+				6) Cliente-Servidor
+			iv. Exemplo: Por onde começar a limpar o terreno
+				1) Classificação - Não precisa
+				2) Distâncias - precisa, entre pontos para execução da tarefa
+			v. Tornar a solução do problema reusável
+		d. Algorítmos
+			i. Energia
+			ii. Trabalhador
+			iii. Eficiência
+			iv. Rapidez
+			v. Não opera sozinho
+			vi. Precisa de instruções detalhadas
+			vii. Para criação dos programas
+			viii. Processo de resolução de problemas "step by step" utilizando instruções
+				1) O que precisa ser feito?
+				2) Qual a ordem de execução?
+				3) Ambas as opções acima geram as instruções
+			ix. Precisa ser entendido por um humano e por uma máquina
+				1) Pode ser feito tanto no papel quanto no código
+			x. Desenvolvimento de um Programa
+				1) Análise
+					a) Estudo e definição dos dados de entrada e saída
+				2) Algorítmo
+					a) Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo
+				3) Códificação
+					a) O algorítmo é codificado de acordo com a linguagem de programação escolhida
+				4) Instruções detalhadas
+				5) Algorítmos
+				6) Programa
+				7) Sequência de passos com objetivo definido
+				8) Execução de tarefas específicas
+				9) Conjunto de operações que resultam em um sucessão finita de ações
+				10) Exemplo:
+					a) Preparar um sanduíche
+					b) Trocar uma lâmpada
+					c) Fazer uma receita de bolo
+					d) Trajeto ao trabalho
+			xi. Como construir um algorítmo
+				1) Compreensão do problema
+					a) Pontos mais importantes
+				2) Definição dados de entrada
+					a) Dados fornecidos e Cenário
+				3) Definição processamento
+					a) Cálculos e Restrições
+				4) Definição dados de saída
+					a) Após processamento
+				5) Utilizar um método de construção
+					a) Construção e refinamento do algorítmo
+				6) Teste e diagnóstico
+				7) Narrativa
+					a) Utilização da linguagem natural
+					b) Sem conceitos novos
+					c) Diversas interpretações possíveis
+				8) Fluxograma
+					a) Utilização de símbolos pré-definidos
+					b) Conhecimento prévio da estrutura e símbolos
+					c) Simples entendimento
+				9) Pseudocódigo
+					a) Portugol
+					b) Passos a serem seguidos
+					c) Regras definidas
+	4. Estudo de Caso Conceitual: Perdido
+		a. Exemplo
+			i. Problema: Tem uma pessoa perdida na floresta
+			ii. Pergunta: Como utilizar o meu pensamento computacional para maxímizar as minhas chances de sobrevivência
+			iii. Como resolver o problema usando o pensamento computacional
+				1) Identificar mecanismos
+				2) Recursos comuns
+				3) Detalhes mais importantes
+			iv. Sobrevivência
+				1) Água
+				2) Comida
+				3) Abrigo
+			v. Decomposição do problema original
+			vii. Exemplo
+				1) Procurar água
+				2) Procurar comida
+				3) Danger zones
+				4) Onde construir o abrigo?
+				5) Mapa
+					a) Criar por abstração
+					b) Foco
+						i) Nos aspectos principais, não precisa de detalhamento
+				6) Fogo
+					a) Principal recurso
+				7) Preparar a comidar
+					a) 
+				8) Mesmo processo para
+					a) Encontrar abrigo
+					b) Construir abrigo
+					c) Maximizar chances de resgate
+	5. Estudo de Caso Aplicado: Soma de um intervalo
+		a. Ex.: soma de nº entre 1 e 200
+			i. Solução ineficiênte
+				1) 1+2
+				2) 1+3
+				3) 1+4 ...
+			ii. Outra forma de expressar a solução
+				1) 200 + 1
+				2) 199 + 2
+				3) 198 + 3 ...
+			iii. Como expressar de forma generalista?
+					a) Utilizando a abstração
+			iv. Expressar em variáveis 
+	6. Estudo de Caso Aplicado: Adivinhe um número
+		a. Ex.: adivinhe o número
+			i. Possível solução
+				1) O número é 1?
+				2) O número é 2?
+				3) O número é 3?
+			ii. Ineficiente
+			iii. Desperdício de tempo
+			iv. Como aprimorar essa habilidade?
+				1) "Permitindo que seus alunos expliquem suas decisões e seu processo de desenvolvimento..." (Brennan & Renesck)
+				2) Para um problema proposto
+
+Aula 2: Introdução à Lógica de Programação
+	1. Objetivo Geral
+		a. Esta aula foca em apresentar o conceito de lógica aplicada à programação, como um processo de pensamento atrelado ao conceito de algorítmos e resolução de problemas.
+	2. Percurso
+		a. O que é lógica?
+			i. Definição formal
+				1) "Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia."
+			ii. Definição formal de lógica
+				1) "Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc) e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
+				2) "Organização e planejamento das instruções, assertivas em um algorítmo, a fim de viabilizar a implantação de um programa." 
+		b. Técnicas de lógica da programação
+			i. Planta baixa
+			ii. Projeto
+			iii. Planejamento
+			iv. Seguem a lógica e determinam as instruções
+			v. Técnica Linear
+				1) Modelo de desenvolvimento e resolução
+				2) Modelo tradicional
+					a) Muito associada à matemática
+				3) Não tem vínculo
+					a) Estrutura hierárquica
+					b) Programação de computadores
+				4) Ordenação de elementos por uma única propriedade
+				5) Execução sequenciada
+				6) Recursos limitados
+				7) Única dimensão
+			vi. Técnica Estruturada
+			vii. Técnica Modular
+		c. Breve história da computação
+
+Aula 3: Fundamentos de Algorítmos
+	1. Objetivo
+		a. Nesta aula serão apresentados os conceitos básicos para o correto entendimento de algorítmos. Esses conceitos como, variáveis, tipos de dados, instruções, condições, entre outros temas relacionados.
+	2. Percurso
+		a. Tipologia e variáveis
+			i. Qual a função do computador?
+				1) Informação
+					a) Dados
+						i) Tratadas e processadas
+						ii) Númericos
+							Um. Inteiros
+							Dois. Reais (ponto-flutuantes)
+						iii) Caractéres
+							Um. 
+						iv) Lógicos
+							Um. Verdadeiro - 1
+								Primeiro. .Verdadeiro
+								Segundo. .V
+								Terceiro. .S
+							Dois. Falso - 0
+								Primeiro. .Falso
+								Segundo. .F
+								Terceiro. .N
+							Três. Português Estruturado
+					b) Instruções
+			ii. Variável
+				1) O que é uma variável
+					a) Possui variações
+					b) Incerto
+					c) Instável
+					d) Inconstante
+					e) Mutável
+				2) Pode assumir qualquer um dos valores de um determinado conjunto de valores
+					a)  a - b = d
+					b)  a + b = c
+				3) Regras
+			iii. Objetivo
+				1) Informação
+					a) Dados
+						i) Tratadas e processadas
+					b) Instruções
+						i) Operações
+		b. Instruções primitivas
+			i. Cálculo matemático
+				1) Operadores
+					a) Binário
+					b) Unário
+				2) Variáveis
+				3) Constantes
+			ii. 
+				1) Área = pi * raio ²
+			iii. Definição formal
+				1) Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados
+				2) O que são instruções?
+			iv. 
+			v. Outros conceitos
+				1) Entrada, processamento e saída
+					a) E se quisermos verificar se foi aprovado ou não?
+		c. Estruturas condicionais e operadores
+			i. Operadores Lógicos?
+				1) Quando utilizar?
+					a) Verificação de V ou F
+					b) Substituição
+						i) Encadeamento de condições 
+		d. Estruturas de repetição
+			i. Condição de parada
+				a) Número de repetições pré-fixada
+				b) Condição a ser satisfeita
+			ii. Vantagens
+				1) Redução de linhas
+				2) Compreensão facilitada
+				3) Redução de erro
+		e. Vetores e matrizes
+			i. Vetores e Matrizes
+			ii. Vetores
+				1) Definição Formal
+					a) "Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado."
+					b) Container
+					c) Matriz unidimensional
+			iii. Matriz
+				1) Definição Formal
+					a) "Matriz é um tabela organiza em linhas e colunas no formato m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical)"
+		f. O que são funções?
+			i. A computação é muito baseada na matemática
+			ii. Definição formal
+				1) As funções ou sub-rotinas são blocos de instruções que realizam tarefas específicas
+				2) Decomposição do algorítmo
+				3) Modularização do problema
+				4) "São blocos de instruções (códigos), identificados por nomes e parâmetros"
+				5) Assinatura
+			iii. Modularização do programa
+			iv. Código mais claro e conciso
+			v. Reutilização de instruções
+			vi. Variáveis são destruídas (desalocadas da memória ao encerrar a função)
+			vii. Dados -> Função -> Resultado
+			viii. Efetivamente altera o estado do programa 
+			ix. Reutilização de código
+		g. Instruções de entrada/saída
+			i. Dados -> Processamento -> Resultado
+			ii. Quais os tipos e como inserir os dados?
+			iii. Como exibir meu resultado?
+			iv. Definição formal (instrução de entrada)
+				1) Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+			v. Definição formal (instrução de saída)
+				1) Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface.
+				2) Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados.
+			vi. Existem dois tipos de saídas de um programa (algorítmo)
+				1) Saída programada
+					a) Condicional
+						i) Aguarda o dispositivo
+					b) Incondicional
+				2) Saída por interrupção
+					a) Definida pelos periféricos
+				
+Aula 4: Linguagens de Programação
+	1. Objetivo
+	2. Percurso
+		a. Introdução à linguagem de programação
+			i. Compreender as dificuldades enfrentadas
+			ii. Fundamentos da computação
+			iii. O processo de pensamento
+		b. Como um computador entende o programa?
+			i. Código fonte
+				1) Tradução
+				2) Interpretação
+				3) Transpilação
+					a) De uma linguagem para outra
+		c. Características de um programa
+		d. Análises e código
+		e. Paradigmas de programação
+		
+Aula 5: Introdução à Programação e Pensamento Computacional
+
+Considerações Finais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://portugol-webstudio.cubos.io/
+

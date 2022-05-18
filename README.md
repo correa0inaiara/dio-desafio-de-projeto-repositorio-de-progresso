@@ -1,7 +1,6 @@
 # Desafio de Projeto: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-## Descrição do Desafio
-Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
+Esse repositório contém as minhas anotações sobre os cursos realizados na DIO.
+Dentro de cada pasta contém as anotações que fiz durante os cursos.
 
-## Links Úteis
-[Slides](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
+## Introdução ao Git e ao GitHub
