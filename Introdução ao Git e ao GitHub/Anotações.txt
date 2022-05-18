@@ -1,22 +1,37 @@
-Comandos
-========
+Introdução ao Git e ao GitHub
+=============================
 
-- Objetos Fundamentais
-	- Blob
-	- Tree
-	- Commit
+Comandos:
+---------
+Windows
+- cd
+- dir
+- mkdir
+- del / rmdir
 
-- BLOB
-	- Arquivos são armazenados dentro de blobs
-	- Que contém metadados
-	- Contém  o tipo, o tamanho, \0 e o conteúdo
+Unix
+- cd
+- ls
+- mkdir
+- rm -rf
 
-- TREE
-	- Armazenam blobs
-	- Aponta para um blob que contém um sha1 e o nome do arquivo
-	- Podem apontar para outras árvores ou blobs
-	- Árvores também contém SHA1
-	- Se for alterado algum blob dentro da árvore, os metadados da árvore também irão ser alterados, assim como o hash de ambos
+Objetos Fundamentais:
+---------------------
+1. Blob
+- Arquivos são armazenados dentro de blobs
+- Que contém metadados
+- Contém  o tipo, o tamanho, \0 e o conteúdo
 
-- Commit
-	- Exibe tree e blobs, conforme a organização e arquivos contidos no commit.
+2. Tree
+- Armazenam blobs
+- Aponta para um blob que contém um sha1 e o nome do arquivo
+- Podem apontar para outras árvores ou blobs
+- Árvores também contém SHA1
+- Se for alterado algum blob dentro da árvore, os metadados da árvore também irão ser alterados, assim como o hash de ambos
+
+3. Commit
+- Exibe tree e blobs, conforme a organização e arquivos contidos no commit.
+
+Referências:
+------------
+- https://www.markdownguide.org/
